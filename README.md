@@ -69,7 +69,7 @@ brew install sdl2
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/2d-raytracing.git
+git clone https://github.com/aaronwittchen/2d-raytracing.git
 cd 2d-raytracing
 
 # Compile
