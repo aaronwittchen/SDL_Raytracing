@@ -6,6 +6,8 @@
 
 A real-time 2D raytracing engine built in C using SDL2. The engine features dynamic lighting, realistic shadows, and interactive controls. Light rays cast shadows as objects move through the scene.
 
+(Showcase to be added)
+
 ## Features
 
 - **Real-time raytracing** - 500 light rays rendered at 60+ FPS
